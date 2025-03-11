@@ -27,7 +27,7 @@ Si tout fonctionne bien vous devriez avoir marqué :
 ```sh
 🚀 Server listening on 0.0.0.0:3000
 ```
-## ⚙️ Configuration (si applicable)
+## ⚙️ Configuration
 Créez le fichier .env à la racine du projet puis remplissez-le.
 ```
 
