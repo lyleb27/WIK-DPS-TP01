@@ -1,0 +1,10 @@
+# Fichiers de build
+target/
+debug/
+release/
+
+# Variables d'environnement (mot de passe, clés API...)
+.env
+
+# Fichiers générés automatiquement
+Cargo.lock
