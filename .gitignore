@@ -8,3 +8,4 @@ release/
 
 # Fichiers générés automatiquement
 Cargo.lock
+rustup-init.exe
